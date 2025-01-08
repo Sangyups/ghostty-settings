@@ -1,7 +1,7 @@
 theme = Broadcast
 font-family = SF Mono
 font-family = D2Coding
-font-size = 13
+font-size = 12
 adjust-cell-height = 10
 adjust-cursor-height = 10
 cursor-style-blink = false
