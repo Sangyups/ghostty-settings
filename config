@@ -9,3 +9,4 @@ cursor-style-blink = false
 shell-integration-features = no-cursor
 cursor-style = block
 font-thicken = true
+macos-window-shadow = false
