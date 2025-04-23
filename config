@@ -1,4 +1,4 @@
-theme = CobaltNext-Dark
+theme = Dimidium
 font-family = SF Mono
 font-family = D2Coding
 font-family = Apple SD Gothic NEO
@@ -10,3 +10,4 @@ shell-integration-features = no-cursor
 cursor-style = block
 font-thicken = true
 macos-window-shadow = false
+clipboard-trim-trailing-spaces = true
