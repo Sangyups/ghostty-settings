@@ -11,3 +11,5 @@ cursor-style = block
 font-thicken = true
 macos-window-shadow = false
 clipboard-trim-trailing-spaces = true
+desktop-notifications = true
+macos-option-as-alt = right
