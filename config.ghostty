@@ -16,29 +16,29 @@ macos-option-as-alt = right
 # Pane splitting (prefix: ctrl+x)
 split-divider-color = "gray"
 unfocused-split-opacity = 0.6
-keybind = ctrl+x>shift+backslash=new_split:right
-keybind = ctrl+x>minus=new_split:down
+keybind = ctrl+key_x>shift+backslash=new_split:right
+keybind = ctrl+key_x>minus=new_split:down
 
 # Pane navigation
-keybind = ctrl+x>h=goto_split:left
-keybind = ctrl+x>j=goto_split:bottom
-keybind = ctrl+x>k=goto_split:top
-keybind = ctrl+x>l=goto_split:right
+keybind = ctrl+key_x>key_h=goto_split:left
+keybind = ctrl+key_x>key_j=goto_split:bottom
+keybind = ctrl+key_x>key_k=goto_split:top
+keybind = ctrl+key_x>key_l=goto_split:right
 
 # Pane resize
-keybind = ctrl+x>ctrl+h=resize_split:left,50
-keybind = ctrl+x>ctrl+j=resize_split:down,50
-keybind = ctrl+x>ctrl+k=resize_split:up,50
-keybind = ctrl+x>ctrl+l=resize_split:right,50
+keybind = ctrl+key_x>ctrl+key_h=resize_split:left,50
+keybind = ctrl+key_x>ctrl+key_j=resize_split:down,50
+keybind = ctrl+key_x>ctrl+key_k=resize_split:up,50
+keybind = ctrl+key_x>ctrl+key_l=resize_split:right,50
 
 # Pane zoom / close
-keybind = ctrl+x>m=toggle_split_zoom
-keybind = ctrl+x>x=close_surface
+keybind = ctrl+key_x>key_m=toggle_split_zoom
+keybind = ctrl+key_x>key_x=close_surface
 
 # Equalize splits
-keybind = ctrl+x>equal=equalize_splits
+keybind = ctrl+key_x>equal=equalize_splits
 
 # Workspace (tab) management
-keybind = ctrl+x>c=new_tab
-keybind = ctrl+x>p=previous_tab
-keybind = ctrl+x>n=next_tab
+keybind = ctrl+key_x>key_c=new_tab
+keybind = ctrl+key_x>key_p=previous_tab
+keybind = ctrl+key_x>key_n=next_tab
